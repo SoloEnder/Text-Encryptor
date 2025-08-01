@@ -1,0 +1,13 @@
+[2025-08-01 18:43:19][program.src.boot.app_launcher][INFO : Boot process launched]
+[2025-08-01 18:43:19][program.ui.main_screen.encryption_options_fr][INFO : Encryption mode switched to 'Caesar Encryption']
+[2025-08-01 18:43:19][program.src.boot.app_launcher][INFO : Boot process finished]
+[2025-08-01 18:43:23][program.ui.main_screen.encryption_options_fr][INFO : Encryption mode switched to 'Binary Encryption']
+[2025-08-01 18:43:24][program.ui.main_screen.encryption_options_fr][INFO : Encryption mode switched to 'Caesar Encryption']
+[2025-08-01 18:43:25][program.ui.main_screen.encryption_options_fr][INFO : Encryption mode switched to 'Binary Encryption']
+[2025-08-01 18:43:26][program.ui.main_screen.encryption_options_fr][INFO : Encryption mode switched to 'Caesar Encryption']
+2025-08-01 18:54:35 [INFO] program.src.boot.app_launcher : Boot process launched]
+2025-08-01 18:54:36 [INFO] program.ui.main_screen.encryption_options_fr : Encryption mode switched to 'Caesar Encryption']
+2025-08-01 18:54:36 [INFO] program.src.boot.app_launcher : Boot process finished]
+2025-08-01 18:55:41 [INFO] program.src.boot.app_launcher : Boot process launched
+2025-08-01 18:55:41 [INFO] program.ui.main_screen.encryption_options_fr : Encryption mode switched to 'Caesar Encryption'
+2025-08-01 18:55:41 [INFO] program.src.boot.app_launcher : Boot process finished
